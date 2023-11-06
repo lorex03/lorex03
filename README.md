@@ -31,7 +31,7 @@ As a full-stack developer, you have the skills and experience to handle both fro
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Github Profilinator]
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
