@@ -28,31 +28,7 @@ As a full-stack developer, you have the skills and experience to handle both fro
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator]
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Languages and Tools  
