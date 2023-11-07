@@ -1,4 +1,5 @@
-## Hey 👋, I'm Lorena Florio! Full Stack Developer
+## Hey 👋, I'm Lorena Florio! 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shrikhand&size=29&pause=1000&color=7A3BF7&random=false&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
   
   
 
